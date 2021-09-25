@@ -1,2 +1,2 @@
 # Data-Science
-This repo contains all the predictive models on different types of datasets.
+This repo contains predictive models on different types of datasets.
